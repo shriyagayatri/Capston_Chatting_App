@@ -155,8 +155,13 @@ public class MainActivity extends AppCompatActivity {
                         intent.setAction(Intent.ACTION_GET_CONTENT);
                         startActivityForResult(intent, 75);
                         break;
+
+                    case R.id.calls:
+                        Toast.makeText(MainActivity.this, "Calls clicked", Toast.LENGTH_SHORT).show();
+                        break;
+
                 }
-                return false;
+                return true;
             }
         });
 

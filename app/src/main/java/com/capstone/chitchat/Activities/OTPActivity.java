@@ -94,7 +94,6 @@ public class OTPActivity extends AppCompatActivity {
                             Intent intent = new Intent(OTPActivity.this, SetupProfileActivity.class);
                             startActivity(intent);
                             finishAffinity();
-                            //Toast.makeText(OTPActivity.this, "Sucessfull", Toast.LENGTH_SHORT).show();
                         } else {
                             Toast.makeText(OTPActivity.this, "Failed.", Toast.LENGTH_SHORT).show();
                         }
