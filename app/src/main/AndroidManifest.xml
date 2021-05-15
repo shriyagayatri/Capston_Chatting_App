@@ -15,7 +15,7 @@
     <!-- Needed only if your calling app uses the getLine1Number() or
          getMsisdn() methods. -->
     <uses-permission android:name="android.permissions.READ_PHONE_NUMBERS"/>
-        />
+    />
 
 
     <application

@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "228440192596",
+    "firebase_url": "https://chit-chat-7686c-default-rtdb.firebaseio.com",
     "project_id": "chit-chat-7686c",
     "storage_bucket": "chit-chat-7686c.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "228440192596-j2199vnbloibv52embch8a9ef1kh1tt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.chitchat",
+            "certificate_hash": "acf3ae1a65f6f41b7270c7c61664c579d4c7ec6d"
+          }
+        },
         {
           "client_id": "228440192596-6vfvk7vjh01f7qqsvn15fkj6emigo79b.apps.googleusercontent.com",
           "client_type": 3
